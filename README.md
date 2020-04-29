@@ -7,9 +7,9 @@ Recommend articles to users of the IBM Watson Studio platform based on informati
 ### Data
 The data is provided by IBM via Udacity's platform.
 
-user-item-interactions.csv: one line per interaction between user and article.  
+- user-item-interactions.csv: one line per interaction between user and article.  
 
-articles_community.csv: article's descriptions.
+- articles_community.csv: article's descriptions.
 
 ### Libraries
 - Pandas
